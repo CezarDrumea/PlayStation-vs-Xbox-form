@@ -138,3 +138,10 @@ footer {
   font-style: italic;
   color: rgba(30, 30, 30, 70%);
 }
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
