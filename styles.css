@@ -90,6 +90,8 @@ textarea {
   outline-style: none;
   background-color: rgba(0, 0, 0, 10%);
   margin-top:10px;
+  resize: none;
+  text-indent: 6px;
 }
 
 #dropdown {
@@ -99,6 +101,10 @@ textarea {
   border-radius: 5px;
   outline-style: none;
   background-color: rgba(0, 0, 0, 10%);
+}
+
+input {
+  text-indent: 6px;
 }
 
 .p1 {
